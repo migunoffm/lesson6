@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/migunov')
 def migunov():
-    return 'Hello from CI with GitHub Actions by Migunov MN'
+    return 'Hello from CI with GitHub Actions by Migunov'
